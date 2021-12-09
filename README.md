@@ -1,2 +1,2 @@
-# curse-vue-2021
+# learning-vue
 Código fuente del curso de Vue
